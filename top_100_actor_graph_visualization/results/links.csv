@@ -1,0 +1,456 @@
+Source,Target,Movies_Count
+Nicolas Cage,Steve Buscemi,2
+John Travolta,Michael Madsen,1
+Katrina Kaif,Salman Khan,4
+Paresh Rawal,Salman Khan,3
+Katrina Kaif,Paresh Rawal,2
+Amitabh Bachchan,Katrina Kaif,3
+Amitabh Bachchan,Sharat Saxena,3
+Katrina Kaif,Sharat Saxena,1
+Amitabh Bachchan,Vijay Sethupathi,4
+Amitabh Bachchan,Nassar,4
+Nassar,Vijay Sethupathi,4
+Anjali,Michael Madsen,7
+Ben Kingsley,Laurence Fishburne,2
+Anil Kapoor,Salman Khan,2
+Nawazuddin Siddiqui,Vijay Raaz,1
+Anil Kapoor,John Abraham,2
+John Goodman,Sean Astin,1
+Ashleigh Ball,Vincent Tong,4
+Danny Trejo,Michael Madsen,1
+Amitabh Bachchan,Vijay Raaz,3
+Abhishek Bachchan,John Abraham,3
+John Abraham,Manoj Joshi,1
+Abhishek Bachchan,Manoj Joshi,2
+Sam Vincent,Tom Kenny,1
+Paresh Rawal,Rajpal Yadav,6
+Manoj Joshi,Paresh Rawal,6
+Manoj Joshi,Rajpal Yadav,5
+Jim Cummings,Tom Kenny,1
+Jackie Shroff,Salman Khan,1
+Jackie Shroff,Katrina Kaif,3
+Bruce Willis,James Franco,1
+Pankaj Tripathi,Sanjay Mishra,4
+Amitabh Bachchan,Rishi Kapoor,3
+Eric Roberts,John Leguizamo,1
+Anupam Kher,Michael Madsen,1
+John Leguizamo,Mike Epps,1
+Danny Trejo,Eric Roberts,1
+Rajesh Sharma,Rani Mukerji,2
+John Travolta,Steve Buscemi,2
+Jackie Shroff,Rajpal Yadav,2
+Anil Kapoor,Anupam Kher,7
+Eric Roberts,Ron Perlman,1
+Amitabh Bachchan,Salman Khan,1
+Amitabh Bachchan,John Abraham,2
+Amitabh Bachchan,Rani Mukerji,7
+Amitabh Bachchan,Om Puri,3
+Amitabh Bachchan,Rajpal Yadav,2
+John Abraham,Salman Khan,1
+Rani Mukerji,Salman Khan,4
+Om Puri,Salman Khan,2
+Rajpal Yadav,Salman Khan,3
+John Abraham,Rani Mukerji,1
+John Abraham,Om Puri,1
+John Abraham,Rajpal Yadav,1
+Om Puri,Rani Mukerji,2
+Rajpal Yadav,Rani Mukerji,2
+Om Puri,Rajpal Yadav,4
+Gulshan Grover,John Abraham,1
+Anjali,Prakash Raj,4
+Anupam Kher,Paresh Rawal,3
+Champion,Gene Autry,29
+Rani Mukerji,Saif Ali Khan,3
+Eric Roberts,Michael Madsen,1
+Rani Mukerji,Sharat Saxena,1
+Anil Kapoor,Asrani,3
+Anil Kapoor,Sharat Saxena,1
+Asrani,Sharat Saxena,2
+Naseeruddin Shah,Pankaj Tripathi,1
+Akshay Kumar,Saif Ali Khan,2
+Salman Khan,Yashpal Sharma,1
+Om Puri,Yashpal Sharma,1
+Kay Kay Menon,Nassar,3
+Akshay Kumar,Anil Kapoor,4
+Akshay Kumar,Kareena Kapoor,4
+Akshay Kumar,Yashpal Sharma,2
+Akshay Kumar,Sanjay Mishra,2
+Anil Kapoor,Kareena Kapoor,2
+Anil Kapoor,Saif Ali Khan,3
+Anil Kapoor,Yashpal Sharma,1
+Anil Kapoor,Sanjay Mishra,1
+Kareena Kapoor,Saif Ali Khan,2
+Kareena Kapoor,Yashpal Sharma,2
+Kareena Kapoor,Sanjay Mishra,1
+Saif Ali Khan,Yashpal Sharma,2
+Saif Ali Khan,Sanjay Mishra,1
+Sanjay Mishra,Yashpal Sharma,5
+Rani Mukerji,Shah Rukh Khan,9
+Amrish Puri,Anil Kapoor,2
+Saif Ali Khan,Shah Rukh Khan,2
+Katrina Kaif,Rishi Kapoor,2
+Rishi Kapoor,Saif Ali Khan,1
+Rani Mukerji,Rishi Kapoor,1
+Abhishek Bachchan,Rishi Kapoor,1
+Abhishek Bachchan,Saif Ali Khan,1
+Abhishek Bachchan,Rani Mukerji,5
+Rishi Kapoor,Sharat Saxena,1
+Om Puri,Shah Rukh Khan,4
+Kareena Kapoor,Shah Rukh Khan,5
+Boman Irani,Shah Rukh Khan,6
+Kareena Kapoor,Om Puri,5
+Boman Irani,Om Puri,3
+Boman Irani,Kareena Kapoor,4
+Amrish Puri,Shah Rukh Khan,3
+Anupam Kher,Shah Rukh Khan,6
+Amrish Puri,Anupam Kher,3
+Anupam Kher,Rani Mukerji,4
+Anupam Kher,Asrani,3
+Abhishek Bachchan,Katrina Kaif,1
+Abhishek Bachchan,Jackie Shroff,1
+Anupam Kher,Rishi Kapoor,3
+Gulshan Grover,Rishi Kapoor,1
+Amrish Puri,Rishi Kapoor,3
+Anupam Kher,Gulshan Grover,2
+Amrish Puri,Gulshan Grover,3
+John Travolta,Morgan Freeman,1
+Akshay Kumar,Gulshan Grover,1
+Abhishek Bachchan,Amitabh Bachchan,5
+John Abraham,Katrina Kaif,1
+John Abraham,Nawazuddin Siddiqui,1
+Katrina Kaif,Nawazuddin Siddiqui,2
+Sharat Saxena,Vijay Raaz,1
+Salman Khan,Shah Rukh Khan,2
+Anupam Kher,Salman Khan,6
+Amitabh Bachchan,Shah Rukh Khan,5
+Amitabh Bachchan,Kareena Kapoor,4
+Abhishek Bachchan,Shah Rukh Khan,3
+Ajay Devgn,John Abraham,2
+Manoj Joshi,Sharat Saxena,5
+Anupam Kher,Kareena Kapoor,2
+Shah Rukh Khan,Sharat Saxena,2
+Gulshan Grover,Shah Rukh Khan,3
+Gulshan Grover,Sharat Saxena,3
+Akshay Kumar,Jackie Shroff,3
+Asrani,Paresh Rawal,6
+Anil Kapoor,Paresh Rawal,2
+Anil Kapoor,Gulshan Grover,1
+Asrani,Gulshan Grover,2
+Anupam Kher,Nassar,1
+Anupam Kher,Prakash Raj,1
+Nassar,Prakash Raj,2
+Samuel L. Jackson,Willem Dafoe,2
+John Leguizamo,Steve Buscemi,1
+Abhishek Bachchan,Boman Irani,5
+Boman Irani,John Abraham,5
+Jim Cummings,Tress MacNeille,7
+Jeff Bennett,Jim Cummings,9
+Jeff Bennett,Tress MacNeille,3
+Bruce Willis,Keith David,1
+Antonio Banderas,Steve Buscemi,2
+Clancy Brown,Mike Epps,1
+John Goodman,Morgan Freeman,2
+Tara Strong,Tress MacNeille,3
+Bruce Willis,Tress MacNeille,1
+Bruce Willis,Tara Strong,1
+Antonio Banderas,Johnny Depp,1
+Antonio Banderas,Danny Trejo,4
+Antonio Banderas,Willem Dafoe,1
+Danny Trejo,Johnny Depp,1
+Johnny Depp,Willem Dafoe,1
+Danny Trejo,Willem Dafoe,1
+Bruce Willis,Samuel L. Jackson,3
+Alfred Molina,Willem Dafoe,2
+Fred Armisen,Jane Lynch,2
+Alfred Molina,Nicolas Cage,1
+Clancy Brown,Fred Tatasciore,4
+Alfred Molina,Ben Kingsley,1
+Clancy Brown,Tom Kenny,2
+Harvey Keitel,Nicolas Cage,3
+Clancy Brown,Jeff Bennett,1
+Fred Tatasciore,Jeff Bennett,1
+Jeff Bennett,Keith David,1
+David Spade,John Goodman,2
+Guy Pearce,Robert Downey Jr.,1
+John Goodman,Steve Buscemi,2
+Jim Cummings,Tara Strong,1
+Jim Cummings,Keith David,2
+Ewan McGregor,John Cleese,1
+Jim Cummings,John Cleese,1
+Julie Tejwani,Rupa Bhimani,31
+Jigna Bhardwaj,Julie Tejwani,21
+Julie Tejwani,Rajesh Kava,24
+Jigna Bhardwaj,Rupa Bhimani,20
+Rajesh Kava,Rupa Bhimani,22
+Jigna Bhardwaj,Rajesh Kava,20
+Fred Tatasciore,Tom Kenny,2
+Anupam Kher,Rajpal Yadav,4
+Anupam Kher,Sanjay Mishra,2
+Rajpal Yadav,Sanjay Mishra,2
+Naseeruddin Shah,Rajesh Sharma,1
+Prakash Raj,Vijay Sethupathi,1
+Anjali,Vijay Sethupathi,1
+Alfred Molina,Fred Tatasciore,1
+John Leguizamo,Tony Hale,1
+John Goodman,Vincent Tong,1
+Ashleigh Ball,Tara Strong,8
+Andrea Libman,Ashleigh Ball,12
+Andrea Libman,Tara Strong,8
+James Cromwell,Morgan Freeman,1
+Liev Schreiber,Morgan Freeman,1
+James Cromwell,Liev Schreiber,1
+Kay Kay Menon,Rajesh Sharma,1
+Guy Pearce,Keith David,1
+Junichi Suwabe,Takahiro Sakurai,9
+Andrea Libman,Vincent Tong,11
+Takahiro Sakurai,Yuki Kaji,13
+Junichi Suwabe,Yuki Kaji,5
+David Spade,Mike Epps,1
+Naseeruddin Shah,Nawazuddin Siddiqui,1
+Boman Irani,Paresh Rawal,3
+Akshay Kumar,Paresh Rawal,7
+Clancy Brown,James Franco,1
+Ajay Devgn,Yashpal Sharma,2
+Abhishek Bachchan,Sanjay Mishra,1
+Boman Irani,Sanjay Mishra,3
+Alfred Molina,Johnny Depp,1
+Jim Cummings,Sean Astin,1
+John Leguizamo,Robert Downey Jr.,1
+Kareena Kapoor,Salman Khan,2
+Asrani,Salman Khan,1
+Asrani,Kareena Kapoor,1
+Ajay Devgn,Prakash Raj,1
+Ajay Devgn,Sachin Khedekar,1
+Prakash Raj,Sachin Khedekar,1
+Amitabh Bachchan,Nawazuddin Siddiqui,2
+Boman Irani,Yashpal Sharma,1
+Abhishek Bachchan,Pankaj Tripathi,1
+Sam Vincent,Vincent Tong,2
+Akshay Kumar,Manoj Joshi,3
+Akshay Kumar,Rajpal Yadav,5
+Akshay Kumar,Sharat Saxena,2
+Paresh Rawal,Sharat Saxena,2
+Rajpal Yadav,Sharat Saxena,1
+Ray Liotta,Steve Buscemi,1
+Naseeruddin Shah,Vijay Raaz,2
+Ajay Devgn,Kareena Kapoor,3
+Akshay Kumar,Katrina Kaif,4
+Akshay Kumar,Asrani,4
+Anil Kapoor,Katrina Kaif,3
+Asrani,Katrina Kaif,1
+Boman Irani,Vijay Raaz,1
+Sanjay Mishra,Vijay Raaz,2
+Amitabh Bachchan,Prakash Raj,1
+Nawazuddin Siddiqui,Rani Mukerji,2
+Katrina Kaif,Rani Mukerji,1
+Naseeruddin Shah,Paresh Rawal,1
+Akshay Kumar,Om Puri,2
+Om Puri,Paresh Rawal,3
+Akshay Kumar,Anupam Kher,5
+Akshay Kumar,Rajesh Sharma,1
+Anupam Kher,Rajesh Sharma,2
+Salman Khan,Sanjay Mishra,1
+Manoj Joshi,Salman Khan,2
+Anupam Kher,Manoj Joshi,2
+Manoj Joshi,Sanjay Mishra,1
+James Franco,John Cleese,1
+James Franco,Michael Madsen,1
+John Cleese,Michael Madsen,2
+James Cromwell,John Goodman,1
+Amitabh Bachchan,Amrish Puri,2
+Kareena Kapoor,Rani Mukerji,3
+Rajesh Sharma,Salman Khan,1
+Ben Kingsley,Johnny Depp,1
+Keith David,Mike Epps,1
+Saif Ali Khan,Salman Khan,2
+Boman Irani,Manoj Joshi,1
+Abhishek Bachchan,Anupam Kher,1
+Anupam Kher,Boman Irani,2
+Boman Irani,Kay Kay Menon,1
+Kareena Kapoor,Nawazuddin Siddiqui,1
+Katrina Kaif,Naseeruddin Shah,2
+Alfred Molina,Tress MacNeille,1
+Boman Irani,Pankaj Tripathi,2
+Antonio Banderas,James Cromwell,1
+Clancy Brown,Sean Astin,1
+David Spade,Tara Strong,1
+David Spade,Tress MacNeille,1
+Nawazuddin Siddiqui,Saif Ali Khan,1
+Andrea Libman,Sam Vincent,5
+Jackie Shroff,John Abraham,1
+Michael Madsen,Samuel L. Jackson,2
+Gulshan Grover,Kay Kay Menon,1
+Kay Kay Menon,Yashpal Sharma,1
+Asrani,Vijay Raaz,1
+Nawazuddin Siddiqui,Vijay Sethupathi,2
+Jackie Shroff,Kay Kay Menon,2
+Asrani,Kay Kay Menon,1
+Kay Kay Menon,Sharat Saxena,1
+Asrani,Jackie Shroff,2
+Jackie Shroff,Sharat Saxena,2
+Sam Vincent,Tara Strong,2
+Ashleigh Ball,Sam Vincent,4
+Kareena Kapoor,Paresh Rawal,2
+Kareena Kapoor,Rajpal Yadav,1
+Ajay Devgn,Paresh Rawal,2
+Kay Kay Menon,Paresh Rawal,2
+Ajay Devgn,Amitabh Bachchan,2
+Abhishek Bachchan,Om Puri,3
+Gulshan Grover,Yashpal Sharma,1
+Om Puri,Saif Ali Khan,1
+Kay Kay Menon,Rajpal Yadav,1
+Naseeruddin Shah,Rajpal Yadav,1
+Kay Kay Menon,Naseeruddin Shah,1
+Katrina Kaif,Saif Ali Khan,2
+John Abraham,Saif Ali Khan,1
+John Abraham,Naseeruddin Shah,1
+Ajay Devgn,Katrina Kaif,2
+Asrani,Sanjay Mishra,1
+Ajay Devgn,Naseeruddin Shah,1
+Anupam Kher,Om Puri,1
+Akshay Kumar,Rishi Kapoor,2
+Fred Tatasciore,Ron Perlman,1
+Clancy Brown,Ron Perlman,1
+Ron Perlman,Tom Kenny,1
+Anupam Kher,Naseeruddin Shah,3
+Rajpal Yadav,Shah Rukh Khan,2
+Asrani,Shah Rukh Khan,1
+Manoj Joshi,Shah Rukh Khan,1
+Asrani,Rajpal Yadav,3
+Asrani,Om Puri,1
+Manoj Joshi,Om Puri,1
+Asrani,Manoj Joshi,2
+Naseeruddin Shah,Shah Rukh Khan,4
+Boman Irani,Naseeruddin Shah,1
+Amitabh Bachchan,Anupam Kher,2
+Paresh Rawal,Shah Rukh Khan,2
+Clancy Brown,Keith David,1
+Abhishek Bachchan,Sachin Khedekar,1
+Manoj Joshi,Sachin Khedekar,1
+Rajpal Yadav,Sachin Khedekar,1
+Anupam Kher,Sachin Khedekar,1
+Abhishek Bachchan,Ajay Devgn,1
+Ajay Devgn,Rani Mukerji,1
+Ajay Devgn,Om Puri,1
+Ajay Devgn,Vijay Raaz,2
+Abhishek Bachchan,Kareena Kapoor,1
+Abhishek Bachchan,Vijay Raaz,2
+Kareena Kapoor,Vijay Raaz,1
+Rani Mukerji,Vijay Raaz,1
+Om Puri,Vijay Raaz,1
+Gulshan Grover,Naseeruddin Shah,2
+Amrish Puri,Naseeruddin Shah,2
+David Spade,Fred Armisen,1
+Ajay Devgn,Sanjay Mishra,1
+Gulshan Grover,Jackie Shroff,3
+Amrish Puri,Sharat Saxena,2
+Gulshan Grover,Saif Ali Khan,1
+Nawazuddin Siddiqui,Shah Rukh Khan,1
+Jackie Shroff,Shah Rukh Khan,2
+Sanjay Mishra,Shah Rukh Khan,1
+Pankaj Tripathi,Shah Rukh Khan,1
+John Goodman,Ray Liotta,1
+David Spade,Sean Astin,1
+David Spade,Harvey Keitel,1
+Danny Trejo,Harvey Keitel,1
+Harvey Keitel,Steve Buscemi,1
+Danny Trejo,David Spade,1
+David Spade,Steve Buscemi,2
+Danny Trejo,Steve Buscemi,2
+Jackie Shroff,Naseeruddin Shah,1
+Anupam Kher,Willem Dafoe,1
+Alfred Molina,Anupam Kher,1
+Amitabh Bachchan,Saif Ali Khan,1
+Amitabh Bachchan,Yashpal Sharma,1
+Jane Lynch,Ray Liotta,1
+Bruce Willis,Mike Epps,1
+Akshay Kumar,Amrish Puri,2
+Amrish Puri,Kareena Kapoor,3
+Amrish Puri,Paresh Rawal,1
+Rajpal Yadav,Yashpal Sharma,1
+Rajpal Yadav,Vijay Raaz,3
+Vijay Raaz,Yashpal Sharma,1
+Jackie Shroff,Paresh Rawal,1
+Johnny Depp,Ray Liotta,1
+Jeff Bennett,John Travolta,1
+Amitabh Bachchan,Gulshan Grover,1
+Amitabh Bachchan,Jackie Shroff,2
+Amitabh Bachchan,Boman Irani,1
+Gulshan Grover,Katrina Kaif,1
+Boman Irani,Gulshan Grover,1
+Boman Irani,Jackie Shroff,1
+Boman Irani,Katrina Kaif,1
+Ewan McGregor,Jim Cummings,1
+Amitabh Bachchan,Asrani,1
+Pankaj Tripathi,Rajesh Sharma,1
+Ajay Devgn,Rajpal Yadav,1
+Boman Irani,Rajpal Yadav,1
+Boman Irani,Saif Ali Khan,1
+Rajpal Yadav,Saif Ali Khan,1
+Ray Liotta,Tara Strong,1
+John Cleese,Pierce Brosnan,2
+Michael Madsen,Pierce Brosnan,1
+Nicolas Cage,Willem Dafoe,1
+Johnny Depp,Michael Madsen,1
+Amrish Puri,Om Puri,3
+Antonio Banderas,Ewan McGregor,1
+Katrina Kaif,Manoj Joshi,1
+Anil Kapoor,Manoj Joshi,1
+Ajay Devgn,Akshay Kumar,1
+Ajay Devgn,Sharat Saxena,1
+Akshay Kumar,Salman Khan,2
+Naseeruddin Shah,Sharat Saxena,1
+Anupam Kher,Jackie Shroff,2
+Kareena Kapoor,Sharat Saxena,1
+Anupam Kher,Saif Ali Khan,1
+Amitabh Bachchan,Anil Kapoor,1
+Ajay Devgn,Anil Kapoor,2
+Ajay Devgn,Jackie Shroff,1
+Ajay Devgn,Anupam Kher,1
+Anil Kapoor,Jackie Shroff,2
+Katrina Kaif,Rajpal Yadav,1
+Naseeruddin Shah,Om Puri,1
+Dennis Quaid,Liev Schreiber,1
+Amrish Puri,Rajpal Yadav,1
+Amrish Puri,Salman Khan,1
+Anil Kapoor,Boman Irani,2
+Boman Irani,Salman Khan,1
+Kay Kay Menon,Pankaj Tripathi,1
+Jackie Shroff,Pankaj Tripathi,1
+Jackie Shroff,Om Puri,1
+Om Puri,Sachin Khedekar,1
+Jackie Shroff,Sachin Khedekar,1
+Keith David,Willem Dafoe,1
+Anil Kapoor,Om Puri,1
+John Travolta,Samuel L. Jackson,1
+Harvey Keitel,John Travolta,1
+Bruce Willis,John Travolta,1
+Harvey Keitel,Samuel L. Jackson,1
+Bruce Willis,Harvey Keitel,1
+Salman Khan,Sharat Saxena,1
+Akshay Kumar,Sachin Khedekar,1
+Nicolas Cage,Ron Perlman,1
+Shah Rukh Khan,Vijay Raaz,1
+Prakash Raj,Shah Rukh Khan,1
+Prakash Raj,Vijay Raaz,1
+Abhishek Bachchan,Amrish Puri,1
+Prakash Raj,Sanjay Mishra,1
+Prakash Raj,Yashpal Sharma,1
+James Cromwell,James Franco,1
+Liev Schreiber,Nicolas Cage,1
+Amitabh Bachchan,Ben Kingsley,1
+Ajay Devgn,Boman Irani,1
+Liev Schreiber,Ron Perlman,1
+John Goodman,Keith David,1
+Fred Tatasciore,Keith David,1
+Jim Cummings,John Goodman,1
+Fred Tatasciore,Jim Cummings,1
+Fred Tatasciore,John Goodman,1
+Johnny Depp,Morgan Freeman,1
+Anil Kapoor,Shah Rukh Khan,1
+Gulshan Grover,Om Puri,1
+Dennis Quaid,Michael Madsen,1
+Danny Trejo,Samuel L. Jackson,1
+Anupam Kher,Vijay Raaz,1
+Jackie Shroff,Kareena Kapoor,1
+Amrish Puri,Jackie Shroff,1
