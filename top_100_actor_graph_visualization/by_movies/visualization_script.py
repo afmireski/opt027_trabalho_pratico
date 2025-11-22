@@ -80,7 +80,7 @@ for actor, platform in actor_streaming.items():
 
 # Geração dos arquivos CSV para o Flourish
 # Cria o diretório para os resultados, se não existir
-results_dir = "top_100_actor_graph_visualization/results"
+results_dir = "top_100_actor_graph_visualization/by_movies/results"
 os.makedirs(results_dir, exist_ok=True)
 
 # Atualiza os caminhos dos arquivos CSV

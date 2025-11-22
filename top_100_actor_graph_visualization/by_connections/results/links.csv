@@ -1,0 +1,502 @@
+Source,Target,Value
+Nicolas Cage,Steve Buscemi,2
+Steve Buscemi,William H. Macy,1
+Amitabh Bachchan,Sharat Saxena,3
+Rob Corddry,Zach Galifianakis,2
+Ed Helms,Rob Corddry,1
+Patton Oswalt,Rob Corddry,1
+Rob Corddry,Rob Riggle,2
+Jason Sudeikis,Rob Corddry,2
+Ed Helms,Zach Galifianakis,1
+Patton Oswalt,Zach Galifianakis,1
+Rob Riggle,Zach Galifianakis,1
+Jason Sudeikis,Zach Galifianakis,2
+Ed Helms,Patton Oswalt,1
+Ed Helms,Rob Riggle,3
+Ed Helms,Jason Sudeikis,1
+Patton Oswalt,Rob Riggle,1
+Jason Sudeikis,Patton Oswalt,1
+Jason Sudeikis,Rob Riggle,1
+Jim Broadbent,Michael Gambon,1
+Jonah Hill,Robert Patrick,1
+Jonah Hill,Justin Long,2
+Justin Long,Robert Patrick,1
+Ben Kingsley,William H. Macy,2
+Patton Oswalt,Willem Dafoe,1
+John Goodman,Sean Astin,1
+Danny DeVito,John Goodman,1
+Danny DeVito,Sean Astin,1
+James Marsden,John Leguizamo,1
+Lake Bell,Terrence Howard,1
+Fred Armisen,Maya Rudolph,5
+Fred Tatasciore,Kari Wahlgren,2
+Jim Cummings,Patton Oswalt,1
+Steve Carell,Zach Galifianakis,2
+Bradley Cooper,Zach Galifianakis,1
+Michael Cera,Zach Galifianakis,1
+Jon Hamm,Zach Galifianakis,1
+Bruce Willis,Zach Galifianakis,1
+James Franco,Zach Galifianakis,1
+Naomi Watts,Zach Galifianakis,1
+Bradley Cooper,Steve Carell,1
+Michael Cera,Steve Carell,1
+Jon Hamm,Steve Carell,1
+Bruce Willis,Steve Carell,1
+James Franco,Steve Carell,1
+Naomi Watts,Steve Carell,1
+Bradley Cooper,Michael Cera,2
+Bradley Cooper,Jon Hamm,2
+Bradley Cooper,Bruce Willis,1
+Bradley Cooper,James Franco,1
+Bradley Cooper,Naomi Watts,1
+Jon Hamm,Michael Cera,2
+Bruce Willis,Michael Cera,1
+James Franco,Michael Cera,1
+Michael Cera,Naomi Watts,1
+Bruce Willis,Jon Hamm,1
+James Franco,Jon Hamm,1
+Jon Hamm,Naomi Watts,1
+Bruce Willis,James Franco,1
+Bruce Willis,Naomi Watts,1
+James Franco,Naomi Watts,1
+Takahiro Sakurai,Yuichi Nakamura,7
+Junichi Suwabe,Katsuyuki Konishi,2
+John Leguizamo,William H. Macy,3
+John Travolta,Steve Buscemi,2
+Jonah Hill,Morgan Freeman,3
+Anil Kapoor,Anupam Kher,7
+Amitabh Bachchan,Om Puri,3
+Anupam Kher,Paresh Rawal,3
+Anil Kapoor,Asrani,3
+Anil Kapoor,Sharat Saxena,1
+Asrani,Sharat Saxena,2
+Akshay Kumar,Saif Ali Khan,2
+Akshay Kumar,Anil Kapoor,4
+Akshay Kumar,Sanjay Mishra,2
+Anil Kapoor,Saif Ali Khan,3
+Anil Kapoor,Sanjay Mishra,1
+Saif Ali Khan,Sanjay Mishra,1
+Amitabh Bachchan,Kulbhushan Kharbanda,1
+Saif Ali Khan,Shah Rukh Khan,2
+Om Puri,Shah Rukh Khan,4
+Boman Irani,Shah Rukh Khan,6
+Boman Irani,Om Puri,3
+Anupam Kher,Shah Rukh Khan,6
+Anupam Kher,Asrani,3
+Anupam Kher,Gulshan Grover,2
+John Travolta,Morgan Freeman,1
+John Travolta,Robert Patrick,1
+Morgan Freeman,Robert Patrick,1
+Akshay Kumar,Gulshan Grover,1
+Amitabh Bachchan,Shah Rukh Khan,5
+Shah Rukh Khan,Sharat Saxena,2
+Gulshan Grover,Shah Rukh Khan,3
+Gulshan Grover,Sharat Saxena,3
+Asrani,Paresh Rawal,6
+Anil Kapoor,Paresh Rawal,2
+Anil Kapoor,Gulshan Grover,1
+Asrani,Gulshan Grover,2
+Anupam Kher,Prakash Raj,1
+Samuel L. Jackson,Willem Dafoe,2
+Elizabeth Banks,William H. Macy,2
+Bradley Cooper,Keith David,1
+Ewan McGregor,Tom Wilkinson,1
+John Leguizamo,Steve Buscemi,1
+Diedrich Bader,Fred Tatasciore,1
+Danny DeVito,Michael Gambon,1
+Jeff Bennett,Jim Cummings,9
+Dermot Mulroney,Sean Astin,1
+Bruce Willis,Keith David,1
+Jason Sudeikis,Lake Bell,2
+Liev Schreiber,Michael Gambon,2
+James Marsden,Keith David,2
+Naomi Watts,Samuel L. Jackson,1
+Morgan Freeman,Steve Carell,2
+John Goodman,Steve Carell,2
+John Michael Higgins,Steve Carell,2
+Jonah Hill,Steve Carell,2
+Molly Shannon,Steve Carell,2
+Ed Helms,Steve Carell,2
+John Goodman,Morgan Freeman,2
+John Michael Higgins,Morgan Freeman,2
+Molly Shannon,Morgan Freeman,2
+Ed Helms,Morgan Freeman,1
+John Goodman,John Michael Higgins,2
+John Goodman,Jonah Hill,2
+John Goodman,Molly Shannon,2
+Ed Helms,John Goodman,1
+John Michael Higgins,Jonah Hill,2
+John Michael Higgins,Molly Shannon,2
+Ed Helms,John Michael Higgins,1
+Jonah Hill,Molly Shannon,2
+Ed Helms,Jonah Hill,1
+Ed Helms,Molly Shannon,1
+Bruce Willis,Tara Strong,1
+Danny Trejo,Johnny Depp,1
+Johnny Depp,Willem Dafoe,1
+Danny Trejo,Willem Dafoe,1
+Janeane Garofalo,John Michael Higgins,1
+Ray Liotta,Zach Galifianakis,2
+Julia Roberts,Tom Wilkinson,1
+Julia Roberts,Paul Giamatti,1
+Paul Giamatti,Tom Wilkinson,1
+Bruce Willis,Samuel L. Jackson,3
+Danny DeVito,John Travolta,1
+Alfred Molina,Willem Dafoe,2
+Cameron Diaz,Viola Davis,2
+Cameron Diaz,Rob Corddry,2
+Cameron Diaz,Lake Bell,2
+Cameron Diaz,Jason Sudeikis,1
+Cameron Diaz,Zach Galifianakis,1
+Lake Bell,Rob Corddry,3
+Lake Bell,Zach Galifianakis,1
+Jane Lynch,Jason Sudeikis,1
+Fred Armisen,Jane Lynch,2
+Bradley Cooper,Jane Lynch,1
+Fred Armisen,Jason Sudeikis,1
+Bradley Cooper,Jason Sudeikis,1
+Bradley Cooper,Fred Armisen,1
+Diedrich Bader,Tiffany Haddish,1
+Jane Lynch,Justin Long,1
+Joan Cusack,John Goodman,1
+John Leguizamo,Justin Long,1
+Chris Parnell,Rob Riggle,1
+Alfred Molina,Nicolas Cage,1
+Alfred Molina,Ben Kingsley,1
+Adam Sandler,Guy Pearce,2
+Fred Tatasciore,Jeff Bennett,1
+Jeff Bennett,Keith David,1
+John Goodman,Steve Buscemi,2
+Jim Cummings,Tara Strong,1
+Jim Cummings,Keith David,2
+Ewan McGregor,Jim Broadbent,1
+Adam Sandler,Maya Rudolph,3
+Daisuke Ono,Katsuyuki Konishi,3
+Junichi Suwabe,Yuichi Nakamura,5
+Daisuke Ono,Junichi Suwabe,8
+Jun Fukuyama,Junichi Suwabe,3
+Daisuke Ono,Yuichi Nakamura,6
+Jun Fukuyama,Yuichi Nakamura,4
+Daisuke Ono,Jun Fukuyama,5
+Daisuke Ono,Hiroshi Kamiya,6
+Hiroshi Kamiya,Junichi Suwabe,2
+Janeane Garofalo,William H. Macy,1
+Anupam Kher,Sanjay Mishra,2
+Naseeruddin Shah,Rajesh Sharma,1
+Elizabeth Banks,James Marsden,1
+Katsuyuki Konishi,Yuichi Nakamura,3
+Alfred Molina,William H. Macy,1
+Bradley Cooper,Julia Roberts,1
+Diedrich Bader,Justin Long,1
+Diedrich Bader,Kevin Michael Richardson,2
+Justin Long,Kevin Michael Richardson,1
+Alfred Molina,Fred Tatasciore,1
+John Leguizamo,Tony Hale,1
+John Goodman,Paul Giamatti,1
+Jason Sudeikis,Julia Roberts,1
+Jane Lynch,Molly Shannon,1
+James Cromwell,Morgan Freeman,1
+Liev Schreiber,Morgan Freeman,1
+James Cromwell,Liev Schreiber,1
+Jun Fukuyama,Yuki Kaji,6
+Kay Kay Menon,Rajesh Sharma,1
+Guy Pearce,Keith David,1
+Junichi Suwabe,Takahiro Sakurai,9
+Anupam Kher,Bradley Cooper,1
+Hiroshi Kamiya,Yuki Kaji,5
+Daisuke Ono,Yuki Kaji,12
+Daisuke Ono,Takahiro Sakurai,9
+Takahiro Sakurai,Yuki Kaji,13
+Yuichi Nakamura,Yuki Kaji,5
+Junichi Suwabe,Yuki Kaji,5
+Chris Parnell,Fred Tatasciore,1
+Fred Tatasciore,Kevin Michael Richardson,2
+Chris Parnell,Kevin Michael Richardson,1
+Elizabeth Banks,Justin Long,2
+Ewan McGregor,Julia Roberts,1
+Dermot Mulroney,Julia Roberts,1
+Benedict Cumberbatch,Julia Roberts,1
+Dermot Mulroney,Ewan McGregor,1
+Benedict Cumberbatch,Ewan McGregor,1
+Benedict Cumberbatch,Dermot Mulroney,1
+Hiroshi Kamiya,Jun Fukuyama,2
+Hiroshi Kamiya,Yuichi Nakamura,2
+Hiroshi Kamiya,Kari Wahlgren,1
+Daisuke Ono,Kari Wahlgren,1
+Jun Fukuyama,Kari Wahlgren,1
+Kari Wahlgren,Yuichi Nakamura,1
+Kari Wahlgren,Yuki Kaji,1
+Jane Lynch,Rob Corddry,1
+Chris Parnell,Rob Corddry,1
+Chris Parnell,Jane Lynch,1
+Boman Irani,Paresh Rawal,3
+Bradley Cooper,John Michael Higgins,1
+Bobby Cannavale,Joseph Gordon-Levitt,1
+Bobby Cannavale,Samuel L. Jackson,1
+Bobby Cannavale,Dermot Mulroney,1
+Joseph Gordon-Levitt,Samuel L. Jackson,1
+Dermot Mulroney,Joseph Gordon-Levitt,1
+Dermot Mulroney,Samuel L. Jackson,1
+Akshay Kumar,Paresh Rawal,7
+Bradley Cooper,Jonah Hill,1
+Boman Irani,Sanjay Mishra,3
+Alfred Molina,Johnny Depp,1
+James Marsden,Terrence Howard,1
+Liev Schreiber,Terrence Howard,2
+James Marsden,Liev Schreiber,1
+Jim Cummings,Sean Astin,1
+Bobby Cannavale,John Leguizamo,1
+Elizabeth Banks,Maya Rudolph,1
+Kevin Michael Richardson,Tony Hale,1
+Joseph Gordon-Levitt,Tom Wilkinson,1
+Joseph Gordon-Levitt,Nicolas Cage,1
+Nicolas Cage,Tom Wilkinson,1
+Ewan McGregor,Naomi Watts,1
+Fred Armisen,Jon Hamm,2
+Jane Lynch,Maya Rudolph,1
+Jon Hamm,Maya Rudolph,1
+Jane Lynch,Jon Hamm,1
+Akshay Kumar,Sharat Saxena,2
+Paresh Rawal,Sharat Saxena,2
+Adam Sandler,Ray Liotta,1
+Adam Sandler,Steve Buscemi,5
+Ray Liotta,Steve Buscemi,1
+Maya Rudolph,Ray Liotta,1
+Maya Rudolph,Steve Buscemi,1
+Jun Fukuyama,Takahiro Sakurai,5
+Akshay Kumar,Asrani,4
+Jun Fukuyama,Katsuyuki Konishi,2
+Katsuyuki Konishi,Yuki Kaji,1
+Hiroshi Kamiya,Katsuyuki Konishi,1
+Nick Swardson,Rob Riggle,2
+Joan Cusack,William H. Macy,1
+Danny DeVito,Tara Strong,1
+Danny DeVito,Ed Helms,1
+Danny DeVito,Rob Riggle,1
+Amitabh Bachchan,Prakash Raj,1
+Naseeruddin Shah,Paresh Rawal,1
+Akshay Kumar,Om Puri,2
+Om Puri,Paresh Rawal,3
+Akshay Kumar,Anupam Kher,5
+Akshay Kumar,Rajesh Sharma,1
+Anupam Kher,Rajesh Sharma,2
+Chris Parnell,Jon Hamm,1
+Chris Parnell,Fred Armisen,2
+James Cromwell,John Goodman,1
+Akshay Kumar,Kulbhushan Kharbanda,1
+Katsuyuki Konishi,Takahiro Sakurai,3
+Kari Wahlgren,Tony Hale,2
+Ben Kingsley,Johnny Depp,1
+Michael Cera,Rob Corddry,2
+Lake Bell,Michael Cera,2
+Hiroshi Kamiya,Takahiro Sakurai,1
+Anupam Kher,Boman Irani,2
+Boman Irani,Kay Kay Menon,1
+Kari Wahlgren,Kevin Michael Richardson,3
+James Cromwell,Robert Patrick,1
+Kevin Michael Richardson,Sean Astin,1
+Kari Wahlgren,Sean Astin,1
+Kari Wahlgren,Tara Strong,2
+Tiffany Haddish,Tony Hale,1
+Rob Riggle,Tiffany Haddish,1
+Rob Riggle,Tony Hale,2
+Gulshan Grover,Kay Kay Menon,1
+Joan Cusack,Samuel L. Jackson,1
+Asrani,Kay Kay Menon,1
+Kay Kay Menon,Sharat Saxena,1
+Ben Kingsley,Tom Wilkinson,1
+Ray Liotta,Robert Patrick,1
+Patton Oswalt,Sean Astin,1
+Kay Kay Menon,Paresh Rawal,2
+Molly Shannon,Paul Giamatti,1
+Om Puri,Saif Ali Khan,1
+Kulbhushan Kharbanda,Saif Ali Khan,1
+Kulbhushan Kharbanda,Om Puri,4
+Kay Kay Menon,Naseeruddin Shah,1
+Dermot Mulroney,Rob Riggle,1
+Jim Cummings,Justin Long,1
+Asrani,Sanjay Mishra,1
+Anupam Kher,Om Puri,1
+Michael Cera,Tony Hale,1
+Anupam Kher,Naseeruddin Shah,3
+Asrani,Shah Rukh Khan,1
+Asrani,Om Puri,1
+Naseeruddin Shah,Shah Rukh Khan,4
+Boman Irani,Naseeruddin Shah,1
+Amitabh Bachchan,Anupam Kher,2
+Paresh Rawal,Shah Rukh Khan,2
+Gulshan Grover,Naseeruddin Shah,2
+Jeff Bennett,Kevin Michael Richardson,3
+Diedrich Bader,Jeff Bennett,2
+Fred Armisen,Patton Oswalt,1
+Elizabeth Banks,Lake Bell,2
+Elizabeth Banks,Janeane Garofalo,2
+Elizabeth Banks,Molly Shannon,2
+Janeane Garofalo,Lake Bell,2
+Lake Bell,Molly Shannon,2
+Janeane Garofalo,Molly Shannon,2
+Gulshan Grover,Saif Ali Khan,1
+John Michael Higgins,Rob Corddry,1
+Adam Sandler,Nick Swardson,5
+Janeane Garofalo,Maya Rudolph,1
+Chris Parnell,Maya Rudolph,1
+Fred Armisen,Janeane Garofalo,1
+Chris Parnell,Janeane Garofalo,1
+Sanjay Mishra,Shah Rukh Khan,1
+John Goodman,Ray Liotta,1
+Jane Lynch,John Michael Higgins,1
+Keith David,Kevin Michael Richardson,1
+Adam Sandler,Sean Astin,3
+Nick Swardson,Sean Astin,1
+Adam Sandler,Danny Trejo,1
+Danny Trejo,Nick Swardson,1
+Danny Trejo,Steve Buscemi,2
+Nick Swardson,Steve Buscemi,1
+Maya Rudolph,Michael Cera,1
+Elizabeth Banks,Michael Cera,1
+Bradley Cooper,Elizabeth Banks,1
+Elizabeth Banks,Jon Hamm,1
+Bradley Cooper,Lake Bell,1
+Jon Hamm,Lake Bell,1
+Janeane Garofalo,Michael Cera,1
+Michael Cera,Molly Shannon,1
+Bradley Cooper,Janeane Garofalo,1
+Bradley Cooper,Molly Shannon,1
+Janeane Garofalo,Jon Hamm,1
+Jon Hamm,Molly Shannon,1
+Maya Rudolph,Sean Astin,1
+Anupam Kher,Willem Dafoe,1
+Alfred Molina,Anupam Kher,1
+Amitabh Bachchan,Saif Ali Khan,1
+Jane Lynch,Ray Liotta,1
+Paul Giamatti,Tony Hale,1
+Kari Wahlgren,Paul Giamatti,1
+Jim Broadbent,Joan Cusack,1
+Benedict Cumberbatch,Bradley Cooper,1
+Kulbhushan Kharbanda,Rajesh Sharma,1
+Guy Pearce,Nick Swardson,1
+Johnny Depp,Ray Liotta,1
+Diedrich Bader,John Travolta,1
+John Travolta,Nick Swardson,1
+John Travolta,Kari Wahlgren,1
+Jeff Bennett,John Travolta,1
+Diedrich Bader,Nick Swardson,1
+Diedrich Bader,Kari Wahlgren,1
+Kari Wahlgren,Nick Swardson,1
+Jeff Bennett,Nick Swardson,1
+Jeff Bennett,Kari Wahlgren,2
+Amitabh Bachchan,Gulshan Grover,1
+Amitabh Bachchan,Boman Irani,1
+Boman Irani,Gulshan Grover,1
+Cameron Diaz,Robert Patrick,1
+Ewan McGregor,Jim Cummings,1
+Amitabh Bachchan,Asrani,1
+Adam Sandler,Jonah Hill,1
+Jonah Hill,Sean Astin,1
+Jim Broadbent,Keith David,1
+Boman Irani,Saif Ali Khan,1
+Ray Liotta,Tara Strong,1
+Nicolas Cage,Willem Dafoe,1
+James Franco,Julia Roberts,1
+Julia Roberts,Viola Davis,1
+James Franco,Viola Davis,1
+Cameron Diaz,Johnny Depp,1
+John Michael Higgins,Paul Giamatti,1
+Elizabeth Banks,Paul Giamatti,1
+Elizabeth Banks,John Michael Higgins,1
+Nicolas Cage,Zach Galifianakis,1
+Steve Buscemi,Zach Galifianakis,1
+Cameron Diaz,Jim Broadbent,1
+James Franco,Tom Wilkinson,1
+James Marsden,John Travolta,1
+Adam Sandler,Molly Shannon,1
+Molly Shannon,Steve Buscemi,2
+Michael Cera,Rob Riggle,1
+Naseeruddin Shah,Sharat Saxena,1
+Anupam Kher,Saif Ali Khan,1
+Amitabh Bachchan,Anil Kapoor,1
+Kulbhushan Kharbanda,Naseeruddin Shah,2
+Naseeruddin Shah,Om Puri,1
+Dennis Quaid,Liev Schreiber,1
+Dennis Quaid,Naomi Watts,1
+Bobby Cannavale,Dennis Quaid,1
+Dennis Quaid,Justin Long,1
+Dennis Quaid,Jason Sudeikis,1
+Dennis Quaid,Terrence Howard,1
+Dennis Quaid,Elizabeth Banks,1
+Liev Schreiber,Naomi Watts,2
+Bobby Cannavale,Liev Schreiber,1
+Justin Long,Liev Schreiber,1
+Jason Sudeikis,Liev Schreiber,1
+Elizabeth Banks,Liev Schreiber,1
+Bobby Cannavale,Naomi Watts,1
+Justin Long,Naomi Watts,1
+Jason Sudeikis,Naomi Watts,1
+Naomi Watts,Terrence Howard,1
+Elizabeth Banks,Naomi Watts,1
+Bobby Cannavale,Justin Long,1
+Bobby Cannavale,Jason Sudeikis,1
+Bobby Cannavale,Terrence Howard,1
+Bobby Cannavale,Elizabeth Banks,1
+Jason Sudeikis,Justin Long,1
+Justin Long,Terrence Howard,1
+Jason Sudeikis,Terrence Howard,1
+Elizabeth Banks,Jason Sudeikis,1
+Elizabeth Banks,Terrence Howard,1
+Cameron Diaz,Joan Cusack,1
+Anil Kapoor,Boman Irani,2
+Keith David,Willem Dafoe,1
+Anil Kapoor,Om Puri,1
+Anil Kapoor,Kulbhushan Kharbanda,1
+John Travolta,Samuel L. Jackson,1
+Bruce Willis,John Travolta,1
+Joan Cusack,Julia Roberts,1
+Alfred Molina,Julia Roberts,1
+Dermot Mulroney,Robert Patrick,1
+Prakash Raj,Shah Rukh Khan,1
+Prakash Raj,Sanjay Mishra,1
+Jane Lynch,Steve Carell,1
+James Cromwell,James Franco,1
+Elizabeth Banks,James Franco,1
+Elizabeth Banks,James Cromwell,1
+Liev Schreiber,Nicolas Cage,1
+Danny Trejo,Robert Patrick,1
+Jonah Hill,Michael Cera,1
+Amitabh Bachchan,Ben Kingsley,1
+Jason Sudeikis,Tiffany Haddish,1
+Cameron Diaz,James Marsden,1
+John Michael Higgins,Justin Long,1
+Jon Hamm,Paul Giamatti,1
+Ed Helms,Tony Hale,1
+Cameron Diaz,Tom Wilkinson,1
+Patton Oswalt,Tony Hale,1
+Guy Pearce,Michael Gambon,1
+Fred Armisen,Molly Shannon,1
+James Franco,Paul Giamatti,1
+Ewan McGregor,Robert Patrick,1
+Jim Cummings,Kevin Michael Richardson,1
+Jim Cummings,Kari Wahlgren,1
+Bradley Cooper,Ray Liotta,1
+Keith David,Terrence Howard,1
+John Goodman,Keith David,1
+Fred Tatasciore,Keith David,1
+Jim Cummings,Terrence Howard,1
+Jim Cummings,John Goodman,1
+Fred Tatasciore,Jim Cummings,1
+John Goodman,Terrence Howard,1
+Fred Tatasciore,Terrence Howard,1
+Fred Tatasciore,John Goodman,1
+Patton Oswalt,Tiffany Haddish,1
+Lake Bell,Patton Oswalt,1
+Lake Bell,Tiffany Haddish,1
+Johnny Depp,Morgan Freeman,1
+Anil Kapoor,Shah Rukh Khan,1
+Maya Rudolph,Paul Giamatti,1
+Paul Giamatti,Samuel L. Jackson,1
+Maya Rudolph,Samuel L. Jackson,1
+Johnny Depp,Justin Long,2
+Michael Gambon,Om Puri,1
+Gulshan Grover,Om Puri,1
+Nicolas Cage,Viola Davis,1
+Danny Trejo,Samuel L. Jackson,1
+Kulbhushan Kharbanda,Sanjay Mishra,1
